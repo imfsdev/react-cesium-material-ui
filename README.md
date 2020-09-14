@@ -1,4 +1,4 @@
-# create-react-app-cesium-example
+# react-material-ui-cesium-test
 
 [Demo](https://react-cesium-material-ui.vercel.app).
 
